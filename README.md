@@ -1,10 +1,10 @@
-This is an imcomplete implementation of probabilistic search
+This is an incomplete implementation of probabilistic search
 explained in this interesting article: 
 
     Schmidhuber, Jürgen. "Discovering neural nets with low Kolmogorov 
     complexity and high generalization capability." Neural Networks 10.5 (1997): 857-873.
 
-The implementation is incomplete because I didn't calculate Levin complexity components.
+My implementation is incomplete because I didn't calculate Levin complexity components.
 I've just implemented the Universal Turing Machine in section 3.2.
 When you run it, the probabilistic search will output some random programs that is capable 
 of generating weights such that the machine learning problem shown in 4.3.1 is solved 

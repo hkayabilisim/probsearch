@@ -11,6 +11,7 @@ of generating weights such that the machine learning problem shown in 4.3.1 is s
 with perfect generalization capability (i.e work for all unseen testing 
 samples.)
 
+    python3 probabilistic_search.py  
     {'trial': 135, 'cycle': 200, 'training': True, 'testing': True, 'program': (0)1,(1)1,(2)0,(3)2,(4)3,(5)0,}
     {'trial': 438, 'cycle': 300, 'training': True, 'testing': True, 'program': (0)1,(1)0,(2)0,(3)0,(4)0,(5)1,}
     {'trial': 603, 'cycle': 150, 'training': True, 'testing': True, 'program': (0)1,(1)1,(2)0,(3)1,(4)0,(5)1,}
